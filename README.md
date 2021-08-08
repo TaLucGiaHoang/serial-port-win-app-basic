@@ -25,4 +25,7 @@ The device is Arduino UNO board
 ## Usage:
 - Connect Arduino UNO board to your PC
 - Run executed file in Binary folder
-- On the application, select Serial Port which connecting to the board
+- On the application, select Serial Port which connecting to the board to Open
+- Press Close button to disconnect to the board
+
+![Windows Application](Binary/c-sharp-app.jpg)
